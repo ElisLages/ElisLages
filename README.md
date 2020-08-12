@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-BackEnd Developer Student at REPROGRAMA <3 | FrontEnd Developer Student at PrograMaria <3
+Back-End Developer Student at {REPROGRAMA} <3 | Front-End Developer Student at Progra{M}aria <3
 
 
 <!--
