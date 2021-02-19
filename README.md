@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Software Developer
+
+Enthusiastic passionate about development
+
 
 
 <!--
