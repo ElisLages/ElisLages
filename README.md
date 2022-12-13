@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Enthusiastic passionate about development
+Enthusiastic about development
 
 
 
